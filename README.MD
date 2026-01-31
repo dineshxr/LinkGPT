@@ -1,4 +1,7 @@
-<img src="./docs/logo.png" height="128">
+<img src="./docs/logo.png" height="128" />
+
+# Archived 
+This open-source version of the extension is no longer supported. You can install the proprietary version from https://typebar.app
 
 # tweetGPT Chrome Extension - Community Edition
 This is an open-source edition of the [TweetGPT chrome extension](https://chrome.google.com/webstore/detail/tweetgpt/lkjblpoingopdeaofcaapmeoojjjnhnc). It doesn't use TweetGPT backend and only relies on your own OpenAI API credentials.
